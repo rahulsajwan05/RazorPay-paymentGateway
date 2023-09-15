@@ -23,7 +23,7 @@ export class PaymentService {
       currency: 'INR',
       name: 'Your Company Name',
       description: 'Purchase Description',
-      order_id:'order_McYHBFnJktYVH6', // You need to create an order on the server-side
+      order_id:'order_McYHBFnJktYVH7', // You need to create an order on the server-side
       prefill: {
         name: 'Rahul',
         email: 'customer@example.com',
